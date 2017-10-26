@@ -1,13 +1,12 @@
 # Site settings
-title: A blog about personal representation
-description: A blog about projects ,I have worked with!!
+title: Projects and skills
+description: A blog about projects ,I have worked on!!
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Vipul Pandey
-user_description: For my previous work assignments, I have worked on the core product of the companies which
-                  includes prototyping using use cases as well as day to day implementations.
+user_description: For my previous work assignments, I have worked on the core product of the companies which includes prototyping using                     use cases as well as day to day implementations.
 user_title: Data Scientist
 email: vipulpandey13@gmail.com
 twitter_username: lorem_ipsum
